@@ -2,5 +2,5 @@
 
 The Hive Authentication Services provide a way for any applications, (either web, desktop or mobile) to easily authenticate users without asking them to provide any password or private key.
 
-Exhaustive protocol description and documentation are available at https://docs.hiveauth.com
-You may also visit https//hiveauth.com for more information.
+Exhaustive protocol description and documentation are available at https://docs.hiveauth.com  
+You may also visit https://hiveauth.com for more information.
